@@ -1,0 +1,1 @@
+Decentralized clusters require consensus mechanisms so that independent machines synchronize on consistent shared state. Handling crashes across message-passing networks remains difficult. Protocols such as Raft and Paxos address fault tolerance through elected leaders and distributed log replication requiring majority quorum votes prior to data persistence.
